@@ -1,0 +1,38 @@
+name: "IM_QQ"
+mode: "dev"
+port: 9090
+start_time: "2023-04-10"
+
+auth:
+  jwt_expire: 8760
+
+log:
+  level: "debug"
+  filename: "./log/qq.log"
+  max_size: 1000
+  max_age: 3600
+  max_backups: 5
+
+filePath:
+  file_path: "file/"
+
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  password: "zyq425ZYQ"
+  dbname: "qq"
+  max_open_conns: 200
+  max_idle_conns: 50
+
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+  db: 0
+  pool_size: 100
+
+msgChannelType:
+  channel_type: "nsq"
+  nsq_hosts: "127.0.0.1:4171"
+  nsq_topic: "go-chat-message"

@@ -1,0 +1,457 @@
+
+{"level":"INFO","time":"2023-04-25T22:01:20.383+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:10:53.422+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:14:10.989+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:16:56.910+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:19:09.103+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:20:06.569+0800","caller":"api/user.go:32","msg":"user","user":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:22:22.490+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:22:31.562+0800","caller":"api/user.go:32","msg":"user","user":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:23:09.609+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:23:15.283+0800","caller":"api/user.go:32","msg":"user","user":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:24:34.171+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:24:37.099+0800","caller":"api/user.go:34","msg":"user","user":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:25:35.231+0800","caller":"api/user.go:34","msg":"user","user":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:25:45.867+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:25:49.473+0800","caller":"api/user.go:32","msg":"user","user":{"id":0,"uuid":"","username":"zyq","password":"12345","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:25:53.806+0800","caller":"api/user.go:32","msg":"user","user":{"id":0,"uuid":"","username":"zyq","password":"123456","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:26:52.311+0800","caller":"api/user.go:32","msg":"user","user":{"id":0,"uuid":"","username":"zyq","password":"123456","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:30:16.343+0800","caller":"api/user.go:45","msg":"user","user":{"id":0,"uuid":"","username":"zyq","password":"1234567","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:30:16.344+0800","caller":"service/user.go:63","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"123456","nickname":"","avatar":"","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:30:42.754+0800","caller":"api/user.go:45","msg":"user","user":{"id":0,"uuid":"","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:30:42.755+0800","caller":"service/user.go:63","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"","avatar":"","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:30:56.897+0800","caller":"api/user.go:45","msg":"user","user":{"id":0,"uuid":"","username":"zy","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:30:56.898+0800","caller":"service/user.go:63","msg":"queryUser","queryUser":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:31:32.560+0800","caller":"api/user.go:45","msg":"user","user":{"id":0,"uuid":"","username":"","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:31:32.561+0800","caller":"service/user.go:63","msg":"queryUser","queryUser":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:31:41.717+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:31:46.082+0800","caller":"api/user.go:45","msg":"user","user":{"id":0,"uuid":"","username":"","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:31:46.083+0800","caller":"service/user.go:63","msg":"queryUser","queryUser":{"id":0,"uuid":"","username":"","password":"","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:33:46.115+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:36:27.850+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:36:38.525+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:37:42.605+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:41:47.933+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-25T22:47:25.289+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:49:38.007+0800","caller":"service/user.go:115","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:53:22.678+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:53:25.046+0800","caller":"service/user.go:115","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T22:54:31.304+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"DEBUG","time":"2023-04-25T22:54:33.724+0800","caller":"service/user.go:115","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:54:33.729+0800","caller":"service/user.go:145","msg":"userFriend","userFriend":{"id":1,"createAt":"2023-04-25T22:54:33.727+08:00","updatedAt":"2023-04-25T22:54:33.727+08:00","deletedAt":0,"userId":4,"friendId":5}}
+{"level":"DEBUG","time":"2023-04-25T22:54:39.514+0800","caller":"service/user.go:115","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-04-25T22:55:03.601+0800","caller":"service/user.go:115","msg":"queryUser","queryUser":{"id":5,"uuid":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2","username":"gyx","password":"123456","nickname":"","avatar":"","email":"","createAt":"2023-04-25T22:19:26.966+08:00","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-04-25T23:05:03.081+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T13:12:09.343+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T13:12:14.524+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T14:33:28.182+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T14:36:31.883+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T14:37:31.210+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T14:37:50.473+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T14:39:54.408+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T14:39:56.579+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T14:42:18.851+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"1896d73a-02f1-4c8c-87e5-a973c5f19c1e"}
+{"level":"INFO","time":"2023-04-28T14:44:11.637+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T14:44:16.902+0800","caller":"router/socket.go:23","msg":"newUser","newUser":"1896d73a-02f1-4c8c-87e5-a973c5f19c1e"}
+{"level":"INFO","time":"2023-04-28T14:44:32.750+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T14:44:38.915+0800","caller":"router/socket.go:23","msg":"newUser","newUser":"1896d73a-02f1-4c8c-87e5-a973c5f19c1e"}
+{"level":"INFO","time":"2023-04-28T15:04:46.072+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:04:46.090+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-28T15:04:50.179+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:05:08.882+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:05:08.882+0800","caller":"chat/server.go:47","msg":"login","login":"new user login inzyq"}
+{"level":"INFO","time":"2023-04-28T15:05:17.909+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:05:17.929+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-28T15:05:21.643+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:05:21.644+0800","caller":"chat/server.go:47","msg":"login","login":"new user login inzyq"}
+{"level":"ERROR","time":"2023-04-28T15:05:49.006+0800","caller":"chat/client.go:28","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-28T15:05:49.006+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:05:49.006+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:05:49.573+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:05:49.573+0800","caller":"chat/server.go:47","msg":"login","login":"new user login inzyq"}
+{"level":"INFO","time":"2023-04-28T15:07:06.003+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:07:06.021+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-28T15:07:38.046+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:07:38.047+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in zyq"}
+{"level":"INFO","time":"2023-04-28T15:07:42.122+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"gyx"}
+{"level":"INFO","time":"2023-04-28T15:07:42.123+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in gyx"}
+{"level":"INFO","time":"2023-04-28T15:40:30.685+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:40:30.707+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-28T15:40:34.216+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:40:34.216+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in zyq"}
+{"level":"INFO","time":"2023-04-28T15:40:35.953+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"gyx"}
+{"level":"INFO","time":"2023-04-28T15:40:35.953+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in gyx"}
+{"level":"INFO","time":"2023-04-28T15:40:43.961+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:41:16.762+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:41:16.780+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-28T15:41:21.019+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:41:21.019+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in zyq"}
+{"level":"INFO","time":"2023-04-28T15:41:23.996+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"gyx"}
+{"level":"INFO","time":"2023-04-28T15:41:23.997+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in gyx"}
+{"level":"INFO","time":"2023-04-28T15:41:27.618+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:41:27.618+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"gyx"}
+{"level":"INFO","time":"2023-04-28T15:46:18.813+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:46:18.831+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-28T15:46:21.944+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:46:21.945+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in zyq"}
+{"level":"INFO","time":"2023-04-28T15:46:23.360+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"gyx"}
+{"level":"INFO","time":"2023-04-28T15:46:23.360+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in gyx"}
+{"level":"INFO","time":"2023-04-28T15:46:27.103+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"zyq"}
+{"level":"INFO","time":"2023-04-28T15:46:56.205+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-28T15:46:56.223+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T13:47:49.116+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T13:47:49.134+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T13:47:53.331+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"zyq"}
+{"level":"INFO","time":"2023-04-29T13:47:53.331+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in zyq"}
+{"level":"ERROR","time":"2023-04-29T13:48:04.338+0800","caller":"chat/client.go:28","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T13:48:04.338+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"zyq"}
+{"level":"INFO","time":"2023-04-29T13:48:04.339+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"zyq"}
+{"level":"INFO","time":"2023-04-29T14:03:03.025+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:03:03.043+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:04:56.009+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:04:56.009+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:05:00.208+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:05:00.208+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:05:02.818+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:05:02.818+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:08:09.466+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:08:09.467+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:11:03.046+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:11:03.047+0800","caller":"chat/server.go:100","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:18:12.424+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:18:12.442+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:18:17.229+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:18:17.229+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:18:18.938+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:18:18.938+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:18:42.718+0800","caller":"chat/server.go:102","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:18:42.719+0800","caller":"chat/server.go:102","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:23:41.040+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:23:41.061+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:23:44.819+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:23:44.819+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:23:46.251+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:23:46.252+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:23:52.204+0800","caller":"chat/server.go:102","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:23:52.204+0800","caller":"chat/server.go:102","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:26:36.555+0800","caller":"chat/server.go:102","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:26:36.556+0800","caller":"chat/server.go:102","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:27:31.013+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:27:31.030+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:28:12.405+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:28:12.406+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:28:16.896+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:28:16.897+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:28:20.615+0800","caller":"chat/server.go:104","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:28:20.615+0800","caller":"chat/server.go:104","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:29:25.574+0800","caller":"chat/server.go:104","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:29:25.574+0800","caller":"chat/server.go:104","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:29:52.370+0800","caller":"chat/server.go:104","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:29:52.370+0800","caller":"chat/server.go:104","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"ERROR","time":"2023-04-29T14:30:28.664+0800","caller":"chat/client.go:28","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T14:30:28.664+0800","caller":"chat/server.go:59","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:30:28.665+0800","caller":"chat/server.go:59","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"ERROR","time":"2023-04-29T14:30:30.222+0800","caller":"chat/client.go:28","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T14:30:30.222+0800","caller":"chat/server.go:59","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:30:30.222+0800","caller":"chat/server.go:59","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:42:44.588+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:42:44.607+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:42:52.380+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:42:52.381+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:42:54.253+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:42:54.254+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:45:01.725+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:45:01.742+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:45:09.039+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:45:09.039+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:45:10.787+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:45:10.787+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"ERROR","time":"2023-04-29T14:45:50.349+0800","caller":"chat/client.go:28","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T14:45:50.349+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T14:45:50.350+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"ERROR","time":"2023-04-29T14:52:49.977+0800","caller":"chat/client.go:28","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T14:52:49.978+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:52:49.978+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T14:53:20.511+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:53:20.529+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T14:59:14.487+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T14:59:14.505+0800","caller":"chat/server.go:45","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:00:39.896+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:00:39.917+0800","caller":"chat/server.go:45","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:00:48.527+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:00:48.528+0800","caller":"chat/server.go:49","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:01:15.725+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:01:15.746+0800","caller":"chat/server.go:45","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:01:39.156+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:01:39.176+0800","caller":"chat/server.go:45","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:01:43.938+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:01:43.938+0800","caller":"chat/server.go:49","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:01:56.629+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:01:56.630+0800","caller":"chat/server.go:49","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:02:02.022+0800","caller":"chat/server.go:109","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:02:02.022+0800","caller":"chat/server.go:109","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:02:40.294+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:02:40.311+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:02:45.836+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:02:45.837+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:02:48.084+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:02:48.084+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:06:42.089+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:06:42.108+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:06:47.297+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:06:47.298+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:06:49.374+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:06:49.375+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:15:37.896+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:15:37.915+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:15:40.153+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:15:40.154+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:15:42.150+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:15:42.150+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"ERROR","time":"2023-04-29T15:17:18.661+0800","caller":"chat/client.go:27","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T15:17:18.661+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:17:18.661+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"ERROR","time":"2023-04-29T15:17:20.948+0800","caller":"chat/client.go:27","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-29T15:17:20.948+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:17:20.948+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:21:24.708+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:21:24.726+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:21:27.227+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:21:27.228+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:21:29.357+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:21:29.358+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:23:42.278+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:23:42.295+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:23:47.900+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:23:47.901+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:23:49.524+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:23:49.525+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:24:26.488+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-29T15:24:26.504+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-29T15:25:58.698+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:25:58.698+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-29T15:26:00.546+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-29T15:26:00.547+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T13:31:31.243+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T13:31:31.270+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T13:31:56.667+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T13:31:56.668+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T13:31:58.856+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T13:31:58.856+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T13:53:31.863+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T13:53:31.885+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T13:54:05.002+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T13:54:05.024+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T13:54:10.994+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T13:54:11.016+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T13:54:32.169+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T13:54:32.169+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T13:54:36.840+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T13:54:36.841+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T14:01:09.404+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T14:01:09.422+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T14:15:54.831+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T14:15:54.854+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T14:18:26.205+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T14:18:26.226+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T14:20:29.859+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T14:20:29.875+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T14:20:40.819+0800","caller":"api/file.go:38","msg":"file","file name":"file/17283c15-5667-4139-bc96-40c8ac79929b.png"}
+{"level":"INFO","time":"2023-04-30T14:20:40.820+0800","caller":"api/file.go:39","msg":"userUuid","userUuid name":""}
+{"level":"INFO","time":"2023-04-30T14:20:46.905+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T14:20:46.923+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T14:20:53.975+0800","caller":"api/file.go:38","msg":"file","file name":"file/609ddf08-0a2e-457a-aeb4-92fa992aa903.png"}
+{"level":"INFO","time":"2023-04-30T14:20:53.975+0800","caller":"api/file.go:39","msg":"userUuid","userUuid name":""}
+{"level":"INFO","time":"2023-04-30T14:21:14.888+0800","caller":"api/file.go:38","msg":"file","file name":"file/4a757d51-5da9-4c38-9aec-294758cce240.png"}
+{"level":"INFO","time":"2023-04-30T14:21:14.888+0800","caller":"api/file.go:39","msg":"userUuid","userUuid name":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T14:23:02.582+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T14:23:02.599+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T14:23:04.507+0800","caller":"api/file.go:29","msg":"file","file name":"file/c8924bda-40e1-4d27-a073-ca496fa6a113.png"}
+{"level":"INFO","time":"2023-04-30T14:23:04.507+0800","caller":"api/file.go:30","msg":"userUuid","userUuid name":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:53:48.457+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T15:53:48.477+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T15:53:55.262+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:53:55.263+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:53:57.467+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T15:53:57.468+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T15:54:59.579+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T15:54:59.596+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T15:55:11.462+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:55:11.463+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:55:13.567+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T15:55:13.567+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T15:58:05.196+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T15:58:05.217+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T15:58:08.195+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:58:08.196+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T15:58:10.031+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T15:58:10.031+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:00:16.009+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:00:16.029+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:00:21.703+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:00:21.703+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:00:23.644+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:00:23.645+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:07:21.373+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:07:21.395+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:07:47.941+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:07:47.942+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:07:49.633+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:07:49.633+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"ERROR","time":"2023-04-30T16:07:51.934+0800","caller":"chat/server.go:170","msg":"transfer base64 to file error","transfer base64 to file error":"illegal base64 data at input byte 4"}
+{"level":"INFO","time":"2023-04-30T16:12:53.996+0800","caller":"chat/server.go:106","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:12:53.996+0800","caller":"chat/server.go:106","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"ERROR","time":"2023-04-30T16:13:37.481+0800","caller":"chat/client.go:27","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-30T16:13:37.481+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:13:37.481+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"ERROR","time":"2023-04-30T16:13:39.444+0800","caller":"chat/client.go:27","msg":"client read message error","client read message error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2023-04-30T16:13:39.444+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:13:39.444+0800","caller":"chat/server.go:58","msg":"loginout","loginout":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:23:01.505+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:23:01.505+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:23:03.772+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:23:03.772+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:23:56.202+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:23:56.224+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:24:09.891+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:24:09.892+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:24:11.987+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:24:11.988+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:27:04.318+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:27:04.339+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:27:17.575+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:27:17.575+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:27:19.157+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:27:19.158+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:31:08.690+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:31:08.710+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:31:12.491+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:31:12.492+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:31:23.445+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:31:23.446+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:50:53.618+0800","caller":"chat/server.go:105","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:50:53.618+0800","caller":"chat/server.go:105","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:53:17.226+0800","caller":"chat/server.go:105","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:53:17.227+0800","caller":"chat/server.go:105","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:53:22.536+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:53:22.557+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:54:55.575+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:54:55.576+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:54:57.266+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:54:57.266+0800","caller":"chat/server.go:46","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:55:27.625+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:55:27.641+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:55:29.152+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:55:29.153+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:55:30.503+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:55:30.503+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:55:37.742+0800","caller":"chat/server.go:106","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:55:37.742+0800","caller":"chat/server.go:106","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:59:07.519+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T16:59:07.536+0800","caller":"chat/server.go:43","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T16:59:09.080+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:59:09.081+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:59:12.577+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:59:12.578+0800","caller":"chat/server.go:47","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T16:59:17.568+0800","caller":"chat/server.go:106","msg":"allUser","allUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T16:59:17.568+0800","caller":"chat/server.go:106","msg":"allUser","allUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:13:55.609+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:13:55.643+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:14:30.384+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:14:30.403+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:23:12.984+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:23:12.984+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:23:14.923+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:23:14.924+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:25:03.774+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:25:03.792+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:26:08.846+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:26:08.847+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:26:10.725+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:26:10.725+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:37:00.922+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:37:00.939+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:38:18.045+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:38:18.045+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:38:21.948+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:38:21.949+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:45:16.376+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:45:16.396+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:45:20.054+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:45:20.054+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:45:21.666+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:45:21.667+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:46:21.981+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:46:21.997+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:46:28.900+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:46:28.901+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:46:30.562+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:46:30.562+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:47:08.260+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:47:08.278+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:47:21.097+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:47:21.115+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:47:27.882+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:47:27.882+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:47:29.713+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:47:29.713+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:47:53.826+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:47:53.847+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:47:56.410+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:47:56.411+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:47:57.808+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:47:57.808+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:49:24.129+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:49:24.148+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:49:28.622+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:49:28.622+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:49:30.649+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:49:30.650+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:51:23.944+0800","caller":"initialize/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:51:23.962+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:51:34.796+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:51:34.797+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:51:36.441+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:51:36.442+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:53:30.535+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:54:58.814+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:54:58.835+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:55:04.662+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:55:04.662+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:55:07.056+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:55:07.056+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:58:17.006+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T19:58:17.025+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T19:58:29.108+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:58:29.108+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T19:58:31.131+0800","caller":"router/socket.go:22","msg":"newUser","newUser":"b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T19:58:31.131+0800","caller":"chat/server.go:48","msg":"login","login":"new user login in b4652631-bbaf-42d7-bb22-e2c9bc61fec2"}
+{"level":"INFO","time":"2023-04-30T20:04:32.402+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T20:04:32.437+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T20:05:22.714+0800","caller":"api/message.go:12","msg":""}
+{"level":"INFO","time":"2023-04-30T20:05:22.714+0800","caller":"api/message.go:18","msg":"messageRequest params: ","messageRequest":{"messageType":0,"uuid":"","friendUsername":""}}
+{"level":"INFO","time":"2023-04-30T20:07:14.280+0800","caller":"api/message.go:12","msg":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T20:07:14.280+0800","caller":"api/message.go:18","msg":"messageRequest params: ","messageRequest":{"messageType":0,"uuid":"","friendUsername":""}}
+{"level":"INFO","time":"2023-04-30T20:09:31.794+0800","caller":"api/message.go:12","msg":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T20:09:31.794+0800","caller":"api/message.go:18","msg":"messageRequest params: ","messageRequest":{"messageType":0,"uuid":"","friendUsername":""}}
+{"level":"INFO","time":"2023-04-30T20:10:28.221+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T20:10:28.255+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T20:10:53.205+0800","caller":"api/message.go:12","msg":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T20:10:53.205+0800","caller":"api/message.go:19","msg":"messageRequest params: ","messageRequest":{"messageType":0,"uuid":"","friendUsername":""}}
+{"level":"INFO","time":"2023-04-30T20:13:17.261+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-04-30T20:13:17.296+0800","caller":"chat/server.go:44","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-04-30T20:13:21.686+0800","caller":"api/message.go:12","msg":"ce7c6b07-105c-492d-a572-3705d5870c3f"}
+{"level":"INFO","time":"2023-04-30T20:13:21.686+0800","caller":"api/message.go:19","msg":"messageRequest params: ","messageRequest":{"messageType":1,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","friendUsername":"gyx"}}
+{"level":"INFO","time":"2023-05-01T15:09:14.411+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-05-01T15:09:14.458+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"INFO","time":"2023-05-01T15:31:37.438+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-05-01T15:31:37.477+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"DEBUG","time":"2023-05-01T15:32:14.107+0800","caller":"service/user.go:115","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"c8924bda-40e1-4d27-a073-ca496fa6a113.png","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-05-01T15:32:14.114+0800","caller":"service/user.go:144","msg":"userFriend","userFriend":{"id":2,"createAt":"2023-05-01T15:32:14.111+08:00","updatedAt":"2023-05-01T15:32:14.111+08:00","deletedAt":0,"userId":4,"friendId":6}}
+{"level":"INFO","time":"2023-05-01T15:34:40.397+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-05-01T15:34:40.435+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"DEBUG","time":"2023-05-01T15:35:10.022+0800","caller":"service/user.go:154","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"c8924bda-40e1-4d27-a073-ca496fa6a113.png","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"DEBUG","time":"2023-05-01T15:35:29.609+0800","caller":"service/user.go:154","msg":"queryUser","queryUser":{"id":4,"uuid":"ce7c6b07-105c-492d-a572-3705d5870c3f","username":"zyq","password":"1234567","nickname":"yuqin","avatar":"c8924bda-40e1-4d27-a073-ca496fa6a113.png","email":"","createAt":"2023-04-25T22:10:56.11+08:00","updateAt":null,"deleteAt":0}}
+{"level":"INFO","time":"2023-05-01T15:54:56.202+0800","caller":"logger/logger.go:36","msg":"init logger success"}
+{"level":"INFO","time":"2023-05-01T15:54:56.241+0800","caller":"chat/server.go:42","msg":"start server","start server":"start server..."}
+{"level":"DEBUG","time":"2023-05-01T15:55:16.737+0800","caller":"api/user.go:31","msg":"user","user":{"id":0,"uuid":"","username":"zsj","password":"123456","nickname":"","avatar":"","email":"","createAt":"0001-01-01T00:00:00Z","updateAt":null,"deleteAt":0}}
